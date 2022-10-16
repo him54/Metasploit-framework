@@ -146,7 +146,7 @@ Payload options (android/meterpreter/reverse_tcp):
 
    Name   Current Setting  Required  Description
    ----   ---------------  --------  -----------
-   LHOST  172.22.138.36    yes       The listen address (an interface may be specified)
+   LHOST  172.22.138.36    yes       The listen address (an interface may be specified) // LHOST AND LPOST BOTH ARE SET 
    LPORT  1010             yes       The listen port
 
 
